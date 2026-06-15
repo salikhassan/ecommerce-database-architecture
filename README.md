@@ -15,3 +15,4 @@ The goal of this project was to reverse-engineer complex e-commerce business ope
 ## Conceptual Architecture (ER Diagram)
 
 Below is the conceptual data model mapping out the entire system's entities, primary/foreign keys, and structural cardinalities:
+![Entity-Relationship Diagram](er_diagram.png)
